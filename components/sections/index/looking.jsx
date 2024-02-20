@@ -31,9 +31,9 @@ export default function Looking() {
         <h2 className={looking.jsonSub}>
           <span className={looking.highlight}>Front End Engineer</span>,
         </h2>
-        {/* <h2 className={looking.jsonSub}>
+        <h2 className={looking.jsonSub}>
           <span className={looking.highlight2}>User Experience Designer</span>
-        </h2> */}
+        </h2>
         <h2 className={looking.json}>&#125;</h2>
         <h4>
           I am particularily interested in product facing postions where I can
