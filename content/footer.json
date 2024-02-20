@@ -1,0 +1,47 @@
+{
+  "acknowledgments": [
+    {
+      "person": "Martins Okanlawon",
+      "link": "",
+      "note": "Thank you for all the advice and feedback."
+    },
+    {
+      "person": "Divine Atansi - Artist",
+      "link": "",
+      "note": "Thanks for the motivations all the way."
+    },
+    {
+      "person": "Emmanuel Sobulachi - Software Engineer",
+      "link": "",
+      "note": "A major inspiration to reach for the stars."
+    },
+    {
+      "person": "Vercel - Platform",
+      "link": "https://vercel.com/docs",
+      "note": "Host your own Next.js project for free!"
+    }
+  ],
+
+  "links": [
+    {
+      "person": "YWFT Creative Marketplace",
+      "link": "https://www.youworkforthem.com/?aff=1115",
+      "note": "Best in class creative assets."
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://twitter.com/matrixh4x",
+      "icon": "twitter"
+    },
+    {
+      "url": "https://www.linkedin.com/in/matthew-ukarionisofien-943059197/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/Matthew-uk",
+      "icon": "github"
+    }
+  ]
+}

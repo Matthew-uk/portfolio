@@ -1,0 +1,84 @@
+[
+  {
+    "project": "The Halo Task",
+    "url": "https://thehalotask.vercel.app",
+    "repo": "Private",
+    "descriptionTitle": "Task Manager",
+    "description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "797",
+        "w": "556",
+        "url": "/img/thehalotask.png"
+      }
+    ],
+    "stack": [
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "sass", "name": "SCSS", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "css3", "name": "Tailwind", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "NitroNft",
+    "url": "https://matthew-uk-nitronft.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "A FrontEnd NFT Gallery",
+    "description": "built on React.js and CSS.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "797",
+        "w": "556",
+        "url": "/img/Nitronft.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "Quantum Hub",
+    "url": "https://quantum-hub.vercel.app/",
+    "repo": "Public",
+    "descriptionTitle": "An open source portfolio",
+    "description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+    "imageOptions": [{ "key": "size", "value": "medium" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "797",
+        "w": "556",
+        "url": "/img/QuantumHub.png"
+      }
+    ],
+    "stack": [
+      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "sass", "name": "SCSS", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  }
+]
