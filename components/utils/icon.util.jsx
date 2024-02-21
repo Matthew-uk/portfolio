@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 // Font Awesome packages
 const { library, config } = require("@fortawesome/fontawesome-svg-core");
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "font-awesome";
 // import { fas } from '@fortawesome/pro-solid-svg-icons'
 // import { fat } from '@fortawesome/pro-thin-svg-icons'
 // import { fal } from '@fortawesome/pro-light-svg-icons'
