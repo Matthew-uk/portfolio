@@ -38,6 +38,7 @@ export default function About() {
               src="/img/profile.JPG"
               alt="Nelson family photo"
               layout="fill"
+              //
             />
             {/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
           </div>
