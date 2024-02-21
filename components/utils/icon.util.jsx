@@ -9,10 +9,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { fal } from '@fortawesome/pro-light-svg-icons'
 // import { fad } from '@fortawesome/pro-duotone-svg-icons'
 // import { far } from '@fortawesome/pro-regular-svg-icons'
-// import { fab } from '@fortawesome/free-brands-svg-icons'
+import { fab } from "@fortawesome/free-brands-svg-icons";
 
 // Load icons into
-library.add(fat, fal, fas, fad, far, fab);
+library.add(fab);
 
 /**
  * Icon factory utility.
