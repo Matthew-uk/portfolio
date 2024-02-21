@@ -88,7 +88,7 @@ export default function FeaturedProject({ content }, index) {
         {images.map(({ key, url, hover, h, w }, index) => {
           hover = hover === "left" ? hoverLeft : hoverRight;
           return (
-            <Image src={url} layout="fill" />
+            <Image key={index} src={url} layout="fill" />
             // <m.div key={`${index}-${key}`} variants={item}>
             //   <m.div variants={hover}>
             //     <Image src={url} alt="x" height={h} width={w} />
